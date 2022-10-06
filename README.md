@@ -6,4 +6,4 @@ App to find Coach.
 
 - pages: Components that load by route.
 - components:
- - layout: components reusable in all pages (Header, Footer, ...).
+    - layout: components reusable in all pages (Header, Footer, ...).
